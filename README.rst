@@ -7,6 +7,8 @@ Database Information
 --------------------
 :Authors:
   Jordon D. Hemingway (jordon_hemingway@harvard.edu)
+  Carolyn Schafer
+  Brad E. Rosenheim
 
 :Initial Release:
   24 January 2018
@@ -24,11 +26,12 @@ How to Cite
 -----------
 When using this compiled dataset, please site as:
 
-* J.D. Hemingway. A compiled database of published ramped pyrolysis/oxidation results, 2018-, http://pypi.python.org/pypi/RPO_Database, doi:10.5281/zenodo.1158742 [online; accessed |date|]
+* J.D. Hemingway et al. A compiled database of published ramped pyrolysis/oxidation results, 2018-, http://pypi.python.org/pypi/RPO_Database, doi:10.5281/zenodo.1158742 [online; accessed |date|]
 
 References for Included Data
 ----------------------------
 * Bianchi et al. (2015) *Geophys. Res. Lett*, **42**, 7983-7995
+* Gaglioti et al. (2014) *J. Geophys. Res. B*, **119**, 1630-1651
 * Hemingway et al. (2017) *Radiocarbon*, **59**, 179-193
 * Hemingway et al. (2018) *Science*, **accepted**
 * Plante et al. (2013) *Radiocarbon*, **55**, 1077-1083
