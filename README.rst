@@ -24,7 +24,7 @@ How to Cite
 -----------
 When using this compiled dataset, please site as:
 
-* J.D. Hemingway. A compiled database of published ramped pyrolysis/oxidation results, 2018-, http://pypi.python.org/pypi/RPO_Database, doi: [online; accessed |date|]
+* J.D. Hemingway. A compiled database of published ramped pyrolysis/oxidation results, 2018-, http://pypi.python.org/pypi/RPO_Database, doi:10.5281/zenodo.1158742 [online; accessed |date|]
 
 References for Included Data
 ----------------------------
@@ -51,4 +51,4 @@ This database is actively maintained. If you have published RPO results that you
 
 
 .. |date| date::
-.. |doi| image:: image:: https://zenodo.org/badge/DOI/10.5281/zenodo.1158742.svg
+.. |doi| image:: https://zenodo.org/badge/DOI/10.5281/zenodo.1158742.svg
