@@ -26,6 +26,23 @@ When using this compiled dataset, please site as:
 
 * J.D. Hemingway. A compiled database of published ramped pyrolysis/oxidation results, 2018-, http://pypi.python.org/pypi/RPO_Database, doi: [online; accessed |date|]
 
+References for Included Data
+----------------------------
+* Bianchi et al. (2015) *Geophys. Res. Lett*, **42**, 7983-7995
+* Hemingway et al. (2017) *Radiocarbon*, **59**, 179-193
+* Hemingway et al. (2018) *Science*, **accepted**
+* Plante et al. (2013) *Radiocarbon*, **55**, 1077-1083
+* Rosengard, S.Z. (2017) PhD Thesis, MIT/WHOI, pp. 165-226
+* Rosenheim and Galy (2012) *Geophys. Res. Lett.*, **39**, L19703
+* Rosenheim et al. (2013) *Global Biogeochem. Cy.*, **27**, 154-166
+* Rosenheim et al. (2013) *Radiocarbon*, **55**, 115-126
+* Schreiner et al. (2014) *Geophys. Res. Lett.*, **41**, 3117-3126
+* Subt et al. (2016) *The Holocene*, **26**, 265-273
+* Vetter et al. (2017) *Geochem. Geophys. Geosys.*, **18**, 142-155
+* Williams et al. (2015) *Mar. Geol.*, **363**, 93-101
+* Zhang et al. (2017) *Geophys. Res. Lett.*, **44**, 11941-11500
+
+
 Adding Data
 -----------
 This database is actively maintained. If you have published RPO results that you would like added, please contact me directly at:
@@ -34,4 +51,4 @@ This database is actively maintained. If you have published RPO results that you
 
 
 .. |date| date::
-.. |doi| image:: https://zenodo.org/badge/66090463.svg
+.. |doi| image:: image:: https://zenodo.org/badge/DOI/10.5281/zenodo.1158742.svg
