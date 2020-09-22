@@ -23,30 +23,30 @@ HiSo_PuuEke_4,H2017,soil,2013,27.07,-155.73,0.73,0.002,meas,-26.5,0.3,meas,9.86,
 Mar_PPL_DOM,H2017,dom,,,,0.47,0.002,meas,,,,,,,ox,"Hemingway et al. (2017) Radiocarbon, 59, 179-193","Marine PPL extracted DOM, Station 21",No %OC calculated for PPL DOM samples
 NaRi_sed_oxPB60,H2017,riv_sed,2005,27.7033,84.4267,0.349,0.002,meas,-25,0.2,meas,0.34,0.03,,ox,"Hemingway et al. (2017) Radiocarbon, 59, 179-193","Narayani River Sediments, 2005 surface",
 YuRi_PPL_DOM,H2017,dom,,,,0.977,0.002,meas,-27.8,0.1,meas,,,,ox,"Hemingway et al. (2017) Radiocarbon, 59, 179-193",Yukon River PPL extracted DOM,No %OC calculated for PPL DOM samples
-LiWu_sed_H27,H2018a,riv_sed,2004,24.179,121.492,0.323,0.001,meas,-23.2,0.3,meas,0.38,0.01,,ox,"Hemingway et al. (2018) Science, xx, xx-xx",LiWu River suspended sediments,
-LiWu_sed_LW1,H2018a,riv_sed,2008,24.179,121.492,0.174,0.001,meas,-23.1,0,meas,0.21,0.01,,ox,"Hemingway et al. (2018) Science, xx, xx-xx",LiWu River suspended sediments,
-LiWu_sed_LW11,H2018a,riv_sed,2008,24.179,121.492,0.068,0.002,meas,-23.2,0.1,meas,0.3,0.01,,ox,"Hemingway et al. (2018) Science, xx, xx-xx",LiWu River suspended sediments,
-LiWu_sed_LW13,H2018a,riv_sed,2008,24.179,121.492,0.054,0.008,meas,-23,0.1,meas,0.26,0.01,,ox,"Hemingway et al. (2018) Science, xx, xx-xx",LiWu River suspended sediments,
-LiWu_sed_LW17,H2018a,riv_sed,2008,24.179,121.492,0.212,0.001,meas,-22.7,0.1,meas,0.27,0.01,,ox,"Hemingway et al. (2018) Science, xx, xx-xx",LiWu River suspended sediments,
-LiWu_sed_LW21,H2018a,riv_sed,2008,24.179,121.492,0.067,0.002,meas,-22.8,0,meas,0.27,0.01,,ox,"Hemingway et al. (2018) Science, xx, xx-xx",LiWu River suspended sediments,
-LiWu_sed_LW3,H2018a,riv_sed,2008,24.179,121.492,0.084,0.002,meas,-22.6,0.1,meas,0.29,0.01,,ox,"Hemingway et al. (2018) Science, xx, xx-xx",LiWu River suspended sediments,
-TiSo_TS1,H2018a,soil,2006,24.1537,121.2828,0.782,0.006,meas,-22.7,0.2,meas,0.71,0.01,,ox,"Hemingway et al. (2018) Science, xx, xx-xx",Taiwan Soil,
-TiSo_TS10,H2018a,soil,2006,23.1922,121.0183,0.776,0.002,meas,-21.8,0.2,meas,0.2,0.01,,ox,"Hemingway et al. (2018) Science, xx, xx-xx",Taiwan Soil,
-TiSo_TS11,H2018a,soil,2006,23.1922,121.0183,0.099,0.004,meas,-18.7,0.2,meas,0.22,0.01,,ox,"Hemingway et al. (2018) Science, xx, xx-xx",Taiwan Soil,
-TiSo_TS13,H2018a,soil,2006,23.2472,120.9858,0.473,0.007,meas,-22.6,0.2,meas,0.09,0.01,,ox,"Hemingway et al. (2018) Science, xx, xx-xx",Taiwan Soil,
-TiSo_TS17,H2018a,soil,2006,23.1448,120.4225,0.294,0.006,meas,-23.9,0.2,meas,0.27,0.01,,ox,"Hemingway et al. (2018) Science, xx, xx-xx",Taiwan Soil,
-TiSo_TS18,H2018a,soil,2006,24.1105,121.2132,1.019,0.009,meas,-18,0.2,meas,4.93,0.13,,ox,"Hemingway et al. (2018) Science, xx, xx-xx",Taiwan Soil,
-TiSo_TS2,H2018a,soil,2006,24.1537,121.2828,0.612,0.006,meas,-22.2,0.2,meas,0.51,0.01,,ox,"Hemingway et al. (2018) Science, xx, xx-xx",Taiwan Soil,
-TiSo_TS20,H2018a,soil,2006,24.1105,121.2132,0.641,0.006,meas,-20.6,0.2,meas,0.74,0.05,,ox,"Hemingway et al. (2018) Science, xx, xx-xx",Taiwan Soil,
-TiSo_TS3,H2018a,soil,2006,24.1537,121.2828,0.502,0.005,meas,-23,0.2,meas,0.39,0.01,,ox,"Hemingway et al. (2018) Science, xx, xx-xx",Taiwan Soil,
-TiSo_TS4,H2018a,soil,2006,24.1782,121.3035,0.223,0.003,meas,-24.9,0.2,meas,0.13,0.01,,ox,"Hemingway et al. (2018) Science, xx, xx-xx",Taiwan Soil,
-TiSo_TS5,H2018a,soil,2006,24.1782,121.3035,0.939,0.008,meas,-18,0.2,meas,4.69,0.13,,ox,"Hemingway et al. (2018) Science, xx, xx-xx",Taiwan Soil,
-TiSo_TS6,H2018a,soil,2006,24.195,121.4222,0.919,0.008,meas,-23.7,0.2,meas,0.59,0.03,,ox,"Hemingway et al. (2018) Science, xx, xx-xx",Taiwan Soil,
-CoRi_DOM_BRA001,H2018b,dom,2016,-4.3099,15.232,1.021,0.005,meas,-29,0.1,meas,,,,ox,This Study,Congo River PPL extracted DOM,No %OC calculated for PPL DOM samples
-CoRi_sed_BRA001,H2018b,riv_sed,2016,-4.3099,15.232,0.953,0.002,meas,-27.9,0.1,meas,6.87,0.07,3.7,ox,This Study,"Congo River suspended sediments, 2016 surface",
-HiSo_PL4535_8,H2018b,soil,,27.07,-155.73,0.236,0.003,meas,-25,0.2,meas,,,,ox,This Study,Hawaiian soil,
-KoRi_sed_LO765,H2018b,riv_sed,2007,26.85,87.15,0.72,0.004,meas,-24.3,0.1,meas,0.32,0.01,13.3,ox,This Study,"Kosi River suspended sediments, 2005 surface",
-SuRi_filt_DOM,H2018b,dom,2012,30.8,-82.42,1.056,0.002,meas,-27.3,0.2,meas,45.3,0.45,,ox,This Study,Suwannee River ultrafiltered and dried DOM,
+LiWu_sed_H27,H2018a,riv_sed,2004,24.179,121.492,0.323,0.001,meas,-23.2,0.3,meas,0.38,0.01,,ox,"Hemingway et al. (2018) Science, 360, 209-212",LiWu River suspended sediments,
+LiWu_sed_LW1,H2018a,riv_sed,2008,24.179,121.492,0.174,0.001,meas,-23.1,0,meas,0.21,0.01,,ox,"Hemingway et al. (2018) Science, 360, 209-212",LiWu River suspended sediments,
+LiWu_sed_LW11,H2018a,riv_sed,2008,24.179,121.492,0.068,0.002,meas,-23.2,0.1,meas,0.3,0.01,,ox,"Hemingway et al. (2018) Science, 360, 209-212",LiWu River suspended sediments,
+LiWu_sed_LW13,H2018a,riv_sed,2008,24.179,121.492,0.054,0.008,meas,-23,0.1,meas,0.26,0.01,,ox,"Hemingway et al. (2018) Science, 360, 209-212",LiWu River suspended sediments,
+LiWu_sed_LW17,H2018a,riv_sed,2008,24.179,121.492,0.212,0.001,meas,-22.7,0.1,meas,0.27,0.01,,ox,"Hemingway et al. (2018) Science, 360, 209-212",LiWu River suspended sediments,
+LiWu_sed_LW21,H2018a,riv_sed,2008,24.179,121.492,0.067,0.002,meas,-22.8,0,meas,0.27,0.01,,ox,"Hemingway et al. (2018) Science, 360, 209-212",LiWu River suspended sediments,
+LiWu_sed_LW3,H2018a,riv_sed,2008,24.179,121.492,0.084,0.002,meas,-22.6,0.1,meas,0.29,0.01,,ox,"Hemingway et al. (2018) Science, 360, 209-212",LiWu River suspended sediments,
+TiSo_TS1,H2018a,soil,2006,24.1537,121.2828,0.782,0.006,meas,-22.7,0.2,meas,0.71,0.01,,ox,"Hemingway et al. (2018) Science, 360, 209-212",Taiwan Soil,
+TiSo_TS10,H2018a,soil,2006,23.1922,121.0183,0.776,0.002,meas,-21.8,0.2,meas,0.2,0.01,,ox,"Hemingway et al. (2018) Science, 360, 209-212",Taiwan Soil,
+TiSo_TS11,H2018a,soil,2006,23.1922,121.0183,0.099,0.004,meas,-18.7,0.2,meas,0.22,0.01,,ox,"Hemingway et al. (2018) Science, 360, 209-212",Taiwan Soil,
+TiSo_TS13,H2018a,soil,2006,23.2472,120.9858,0.473,0.007,meas,-22.6,0.2,meas,0.09,0.01,,ox,"Hemingway et al. (2018) Science, 360, 209-212",Taiwan Soil,
+TiSo_TS17,H2018a,soil,2006,23.1448,120.4225,0.294,0.006,meas,-23.9,0.2,meas,0.27,0.01,,ox,"Hemingway et al. (2018) Science, 360, 209-212",Taiwan Soil,
+TiSo_TS18,H2018a,soil,2006,24.1105,121.2132,1.019,0.009,meas,-18,0.2,meas,4.93,0.13,,ox,"Hemingway et al. (2018) Science, 360, 209-212",Taiwan Soil,
+TiSo_TS2,H2018a,soil,2006,24.1537,121.2828,0.612,0.006,meas,-22.2,0.2,meas,0.51,0.01,,ox,"Hemingway et al. (2018) Science, 360, 209-212",Taiwan Soil,
+TiSo_TS20,H2018a,soil,2006,24.1105,121.2132,0.641,0.006,meas,-20.6,0.2,meas,0.74,0.05,,ox,"Hemingway et al. (2018) Science, 360, 209-212",Taiwan Soil,
+TiSo_TS3,H2018a,soil,2006,24.1537,121.2828,0.502,0.005,meas,-23,0.2,meas,0.39,0.01,,ox,"Hemingway et al. (2018) Science, 360, 209-212",Taiwan Soil,
+TiSo_TS4,H2018a,soil,2006,24.1782,121.3035,0.223,0.003,meas,-24.9,0.2,meas,0.13,0.01,,ox,"Hemingway et al. (2018) Science, 360, 209-212",Taiwan Soil,
+TiSo_TS5,H2018a,soil,2006,24.1782,121.3035,0.939,0.008,meas,-18,0.2,meas,4.69,0.13,,ox,"Hemingway et al. (2018) Science, 360, 209-212",Taiwan Soil,
+TiSo_TS6,H2018a,soil,2006,24.195,121.4222,0.919,0.008,meas,-23.7,0.2,meas,0.59,0.03,,ox,"Hemingway et al. (2018) Science, 360, 209-212",Taiwan Soil,
+CoRi_DOM_BRA001,H2018b,dom,2016,-4.3099,15.232,1.021,0.005,meas,-29,0.1,meas,,,,ox,"Hemingway et al. (2019) Nature, 570, 228-231",Congo River PPL extracted DOM,No %OC calculated for PPL DOM samples
+CoRi_sed_BRA001,H2018b,riv_sed,2016,-4.3099,15.232,0.953,0.002,meas,-27.9,0.1,meas,6.87,0.07,3.7,ox,"Hemingway et al. (2019) Nature, 570, 228-231","Congo River suspended sediments, 2016 surface",
+HiSo_PL4535_8,H2018b,soil,,27.07,-155.73,0.236,0.003,meas,-25,0.2,meas,,,,ox,"Hemingway et al. (2019) Nature, 570, 228-231",Hawaiian soil,
+KoRi_sed_LO765,H2018b,riv_sed,2007,26.85,87.15,0.72,0.004,meas,-24.3,0.1,meas,0.32,0.01,13.3,ox,"Hemingway et al. (2019) Nature, 570, 228-231","Kosi River suspended sediments, 2005 surface",
+SuRi_filt_DOM,H2018b,dom,2012,30.8,-82.42,1.056,0.002,meas,-27.3,0.2,meas,45.3,0.45,,ox,"Hemingway et al. (2019) Nature, 570, 228-231",Suwannee River ultrafiltered and dried DOM,
 CaSa_soil_cul_fume,P2013,soil,2007,50.5333,-103.5167,0.89,0.022,RPO_mean,,,,2.7,0.1,,ox,"Plante et al. (2013) Radiocarbon, 55, 1077-1083",,
 CaSa_soil_cul_raw,P2013,soil,2007,50.5333,-103.5167,0.79,0.005,meas,,,,2.7,0.1,,ox,"Plante et al. (2013) Radiocarbon, 55, 1077-1083",,
 CaSa_soil_nat_fume,P2013,soil,2007,50.5333,-103.5167,0.995,0.011,RPO_mean,,,,4.4,0.6,,ox,"Plante et al. (2013) Radiocarbon, 55, 1077-1083","Canadian soil from pit (top 20 cm), natural, fumigated",
@@ -54,14 +54,14 @@ CaSa_soil_nat_raw,P2013,soil,2007,50.5333,-103.5167,0.941,0.003,meas,,,,4.4,0.6,
 NaRi_sed_LO742,R2012,riv_sed,2007,27.7033,84.4267,0.31,0.002,meas,-23.9,0.3,meas,0.39,0.03,,pyr,"Rosenheim and Galy (2012) GRL, 39, L19703","Narayani River Sediments, 2007 surface",
 NaRi_sed_pyrPB60,R2012,riv_sed,2005,27.7033,84.4267,0.39,0.006,meas,-24.5,0.3,meas,0.34,0.03,251,pyr,"Rosenheim and Galy (2012) GRL, 39, L19703","Narayani River Sediments, 2005 surface",
 AtDe_surf_2009,R2013a,riv_sed,2009,29.4409,-91.3159,0.814,0.004,RPO_mean,-24.8,0.2,RPO_mean,0.9,0.01,41,pyr,"Rosenheim et al. (2013) GBC, 27, 154-176","Atchafalaya River suspended sediment at delta, surface",Assume RPO F1 starts on second row of _tg file
-AtRi_inter_2009,R2013a,riv_sed,2009,29.6328,-91.2437,0.891,0.005,RPO_mean,-26.6,0.2,RPO_mean,0.85,0.01,30,pyr,"Rosenheim et al. (2013) GBC, 27, 154-175","Atchafalaya River suspended sediment, intermediate",Assume RPO F1 starts on second row of _tg file. Estimated temp above 422! Missing ALL d13C values!
-MiDe_inter_2009,R2013a,riv_sed,2009,29.0661,-89.3028,0.785,0.005,RPO_mean,,,,0.51,0.01,20,pyr,"Rosenheim et al. (2013) GBC, 27, 154-173","Mississippi River suspended sediment at delta, intermediate",Assume RPO F1 starts on second row of _tg file. Missing F1 d13C value!
-MiDe_surf_2009,R2013a,riv_sed,2009,29.0661,-89.3028,0.821,0.005,RPO_mean,-25.2,0.2,RPO_mean,0.55,0.01,30,pyr,"Rosenheim et al. (2013) GBC, 27, 154-172","Mississippi River suspended sediment at delta, surface",Assume RPO F1 starts on second row of _tg file
-MiRi_deep_2008,R2013a,riv_sed,2008,29.9408,-90.1383,0.79,0.012,RPO_mean,-25.5,0.2,RPO_mean,0.98,0.01,36.5,pyr,"Rosenheim et al. (2013) GBC, 27, 154-168","Mississippi River suspended sediment, deep",Assume RPO F1 starts on second row of _tg file
-MiRi_deep_2009,R2013a,riv_sed,2009,29.6415,-89.9447,0.856,0.005,RPO_mean,-24.6,0.2,RPO_mean,1.01,0.01,45,pyr,"Rosenheim et al. (2013) GBC, 27, 154-171","Mississippi River suspended sediment, deep",Assume RPO F1 starts on second row of _tg file. Missing ALL d13C values!
-MiRi_inter_2008,R2013a,riv_sed,2008,29.9408,-90.1383,0.794,0.009,RPO_mean,-25.6,0.2,RPO_mean,1.02,0.01,3,pyr,"Rosenheim et al. (2013) GBC, 27, 154-167","Mississippi River suspended sediment, intermediate",Assume RPO F1 starts on second row of _tg file
-MiRi_surf_2008,R2013a,riv_sed,2008,29.9408,-90.1383,0.783,0.011,RPO_mean,-25.3,0.2,RPO_mean,0.92,0.01,39,pyr,"Rosenheim et al. (2013) GBC, 27, 154-166","Mississippi River suspended sediment, surface",Assume RPO F1 starts on second row of _tg file
-MiRi_surf_2009,R2013a,riv_sed,2009,29.6415,-89.9447,0.924,0.006,RPO_mean,-23.3,0.2,RPO_mean,0.95,0.01,45,pyr,"Rosenheim et al. (2013) GBC, 27, 154-169","Mississippi River suspended sediment, surface",Assume RPO F1 starts on second row of _tg file
+AtRi_inter_2009,R2013a,riv_sed,2009,29.6328,-91.2437,0.891,0.005,RPO_mean,-26.6,0.2,RPO_mean,0.85,0.01,30,pyr,"Rosenheim et al. (2013) GBC, 27, 154-176","Atchafalaya River suspended sediment, intermediate",Assume RPO F1 starts on second row of _tg file. Estimated temp above 422! Missing ALL d13C values!
+MiDe_inter_2009,R2013a,riv_sed,2009,29.0661,-89.3028,0.785,0.005,RPO_mean,,,,0.51,0.01,20,pyr,"Rosenheim et al. (2013) GBC, 27, 154-176","Mississippi River suspended sediment at delta, intermediate",Assume RPO F1 starts on second row of _tg file. Missing F1 d13C value!
+MiDe_surf_2009,R2013a,riv_sed,2009,29.0661,-89.3028,0.821,0.005,RPO_mean,-25.2,0.2,RPO_mean,0.55,0.01,30,pyr,"Rosenheim et al. (2013) GBC, 27, 154-176","Mississippi River suspended sediment at delta, surface",Assume RPO F1 starts on second row of _tg file
+MiRi_deep_2008,R2013a,riv_sed,2008,29.9408,-90.1383,0.79,0.012,RPO_mean,-25.5,0.2,RPO_mean,0.98,0.01,36.5,pyr,"Rosenheim et al. (2013) GBC, 27, 154-176","Mississippi River suspended sediment, deep",Assume RPO F1 starts on second row of _tg file
+MiRi_deep_2009,R2013a,riv_sed,2009,29.6415,-89.9447,0.856,0.005,RPO_mean,-24.6,0.2,RPO_mean,1.01,0.01,45,pyr,"Rosenheim et al. (2013) GBC, 27, 154-176","Mississippi River suspended sediment, deep",Assume RPO F1 starts on second row of _tg file. Missing ALL d13C values!
+MiRi_inter_2008,R2013a,riv_sed,2008,29.9408,-90.1383,0.794,0.009,RPO_mean,-25.6,0.2,RPO_mean,1.02,0.01,3,pyr,"Rosenheim et al. (2013) GBC, 27, 154-176","Mississippi River suspended sediment, intermediate",Assume RPO F1 starts on second row of _tg file
+MiRi_surf_2008,R2013a,riv_sed,2008,29.9408,-90.1383,0.783,0.011,RPO_mean,-25.3,0.2,RPO_mean,0.92,0.01,39,pyr,"Rosenheim et al. (2013) GBC, 27, 154-176","Mississippi River suspended sediment, surface",Assume RPO F1 starts on second row of _tg file
+MiRi_surf_2009,R2013a,riv_sed,2009,29.6415,-89.9447,0.924,0.006,RPO_mean,-23.3,0.2,RPO_mean,0.95,0.01,45,pyr,"Rosenheim et al. (2013) GBC, 27, 154-176","Mississippi River suspended sediment, surface",Assume RPO F1 starts on second row of _tg file
 Ant_KC11_0-1,R2013b,mar_sed,2010,-64.8484,-65.3997,0.767,0.003,meas,-24.9,0.1,meas,,,149.4,pyr,"Rosenheim et al. (2013) Radiocarbon, 55, 115-126",Hugo Island Trough core NBP01-10 KC-11,
 Ant_KC11_100-101,R2013b,mar_sed,2010,-64.8484,-65.3997,0.433,0.003,meas,-24.1,0.1,meas,,,138.7,pyr,"Rosenheim et al. (2013) Radiocarbon, 55, 115-126",Hugo Island Trough core NBP01-10 KC-11,
 Ant_KC11_200-201,R2013b,mar_sed,2010,-64.8484,-65.3997,0.313,0.004,meas,-24.5,0.1,meas,,,176.9,pyr,"Rosenheim et al. (2013) Radiocarbon, 55, 115-126",Hugo Island Trough core NBP01-10 KC-11,
@@ -78,24 +78,24 @@ MaRi_2005_3m,R2017,riv_sed,2005,-3.45,-58.808,0.67,0.005,meas,-27.7,0.1,meas,0.5
 SoRi_2005_3m,R2017,riv_sed,2005,3.314,-60.554,0.72,0.005,meas,-27,0.1,meas,0.17,0.01,53.4,ox,"Rosengard, S.Z. (2017) PhD Thesis, MIT/WHOI, pp. 165-226","Solim›es River suspended sediments, 2005 3m",
 TaRi_2014_3m,R2017,riv_sed,2014,,,0.89,0.005,meas,-31,0.1,meas,16,0.13,2.4,ox,"Rosengard, S.Z. (2017) PhD Thesis, MIT/WHOI, pp. 165-226","Tapajos River suspended sediments, 2014 3m",
 CoDe_ND_bulk,S2014,riv_sed,2010,70.6766,-150.4977,0.16,0.01,meas,-26.5,0.3,meas,1.4,0.01,88.03,pyr,"Schreiner et al. (2014) GRL, 41, 3117-3126","Colville River Delta, core-top, bulk",
-CoDe_ND_D1,S2014,riv_sed,2010,70.6766,-150.4977,0.135,0.013,RPO_mean,-25.6,0.3,meas,41.27,0.41,16.8,pyr,"Schreiner et al. (2014) GRL, 41, 3117-3127","Colville River Delta, core-top, <1.6 g/mL",
-CoDe_ND_D2,S2014,riv_sed,2010,70.6766,-150.4977,0.199,0.013,RPO_mean,-26.8,0.3,meas,18.25,0.18,8.98,pyr,"Schreiner et al. (2014) GRL, 41, 3117-3128","Colville River Delta, core-top, 1.6-2.0 g/mL",
-CoDe_ND_D3,S2014,riv_sed,2010,70.6766,-150.4977,0.261,0.012,RPO_mean,-26.7,0.3,meas,1.33,0.01,101.6,pyr,"Schreiner et al. (2014) GRL, 41, 3117-3129","Colville River Delta, core-top, 2.0-2.5 g/mL",
-CoDe_ND_D4,S2014,riv_sed,2010,70.6766,-150.4977,0.244,0.013,RPO_mean,-26.4,0.3,meas,0.34,0,393.9,pyr,"Schreiner et al. (2014) GRL, 41, 3117-3130","Colville River Delta, core-top, >2.5 g/mL",
-SiLa_L3_bulk,S2014,mar_sed,2010,70.5305,-149.9483,0.42,0.01,meas,-26.5,0.3,meas,1.28,0.01,107.2,pyr,"Schreiner et al. (2014) GRL, 41, 3117-3131","Simpson's Lagoon (near Colville), core-top, bulk",
-SiLa_L3_D1,S2014,mar_sed,2010,70.5305,-149.9483,0.477,0.013,RPO_mean,-27.1,0.3,meas,28.06,0.28,14.6,pyr,"Schreiner et al. (2014) GRL, 41, 3117-3132","Simpson's Lagoon (near Colville), core-top, <1.6 g/mL",
-SiLa_L3_D2,S2014,mar_sed,2010,70.5305,-149.9483,0.432,0.013,RPO_mean,-26.5,0.3,meas,12.05,0.12,11.28,pyr,"Schreiner et al. (2014) GRL, 41, 3117-3133","Simpson's Lagoon (near Colville), core-top, 1.6-2.0 g/mL",
-SiLa_L3_D3,S2014,mar_sed,2010,70.5305,-149.9483,0.462,0.018,RPO_mean,-25.9,0.3,meas,0.67,0.01,18.1,pyr,"Schreiner et al. (2014) GRL, 41, 3117-3134","Simpson's Lagoon (near Colville), core-top, 2.0-2.5 g/mL",
-SiLa_L3_D4,S2014,mar_sed,2010,70.5305,-149.9483,0.318,0.013,RPO_mean,-25.7,0.3,meas,0.13,0,362.8,pyr,"Schreiner et al. (2014) GRL, 41, 3117-3135","Simpson's Lagoon (near Colville), core-top, >2.5 g/mL",
+CoDe_ND_D1,S2014,riv_sed,2010,70.6766,-150.4977,0.135,0.013,RPO_mean,-25.6,0.3,meas,41.27,0.41,16.8,pyr,"Schreiner et al. (2014) GRL, 41, 3117-3126","Colville River Delta, core-top, <1.6 g/mL",
+CoDe_ND_D2,S2014,riv_sed,2010,70.6766,-150.4977,0.199,0.013,RPO_mean,-26.8,0.3,meas,18.25,0.18,8.98,pyr,"Schreiner et al. (2014) GRL, 41, 3117-3126","Colville River Delta, core-top, 1.6-2.0 g/mL",
+CoDe_ND_D3,S2014,riv_sed,2010,70.6766,-150.4977,0.261,0.012,RPO_mean,-26.7,0.3,meas,1.33,0.01,101.6,pyr,"Schreiner et al. (2014) GRL, 41, 3117-3126","Colville River Delta, core-top, 2.0-2.5 g/mL",
+CoDe_ND_D4,S2014,riv_sed,2010,70.6766,-150.4977,0.244,0.013,RPO_mean,-26.4,0.3,meas,0.34,0,393.9,pyr,"Schreiner et al. (2014) GRL, 41, 3117-3126","Colville River Delta, core-top, >2.5 g/mL",
+SiLa_L3_bulk,S2014,mar_sed,2010,70.5305,-149.9483,0.42,0.01,meas,-26.5,0.3,meas,1.28,0.01,107.2,pyr,"Schreiner et al. (2014) GRL, 41, 3117-3126","Simpson's Lagoon (near Colville), core-top, bulk",
+SiLa_L3_D1,S2014,mar_sed,2010,70.5305,-149.9483,0.477,0.013,RPO_mean,-27.1,0.3,meas,28.06,0.28,14.6,pyr,"Schreiner et al. (2014) GRL, 41, 3117-3126","Simpson's Lagoon (near Colville), core-top, <1.6 g/mL",
+SiLa_L3_D2,S2014,mar_sed,2010,70.5305,-149.9483,0.432,0.013,RPO_mean,-26.5,0.3,meas,12.05,0.12,11.28,pyr,"Schreiner et al. (2014) GRL, 41, 3117-3126","Simpson's Lagoon (near Colville), core-top, 1.6-2.0 g/mL",
+SiLa_L3_D3,S2014,mar_sed,2010,70.5305,-149.9483,0.462,0.018,RPO_mean,-25.9,0.3,meas,0.67,0.01,18.1,pyr,"Schreiner et al. (2014) GRL, 41, 3117-3126","Simpson's Lagoon (near Colville), core-top, 2.0-2.5 g/mL",
+SiLa_L3_D4,S2014,mar_sed,2010,70.5305,-149.9483,0.318,0.013,RPO_mean,-25.7,0.3,meas,0.13,0,362.8,pyr,"Schreiner et al. (2014) GRL, 41, 3117-3126","Simpson's Lagoon (near Colville), core-top, >2.5 g/mL",
 Ant_05026E_1E84-86,S2016,mar_sed,2005,-64.3883,-63.2628,0.455,0.002,meas,-18.2,0.1,meas,0.13,0.01,,pyr,"Subt et al. (2016) Holocene, 26, 265-273",Lapeyrere Bay core NBP-0502-6E,
 Ant_05026E_7E24-26,S2016,mar_sed,2005,-64.3883,-63.2628,0.224,0.002,meas,-19.5,0.1,meas,0.23,0.01,,pyr,"Subt et al. (2016) Holocene, 26, 265-273",Lapeyrere Bay core NBP-0502-6E,
 Ant_05026E_8E193-195,S2016,mar_sed,2005,-64.3883,-63.2628,0.237,0.001,meas,-21.2,0.1,meas,0.29,0.01,,pyr,"Subt et al. (2016) Holocene, 26, 265-273",Lapeyrere Bay core NBP-0502-6E,
 Ant_05026E_8E24-26,S2016,mar_sed,2005,-64.3883,-63.2628,0.174,0.001,meas,-18,0.1,meas,0.16,0.01,,pyr,"Subt et al. (2016) Holocene, 26, 265-273",Lapeyrere Bay core NBP-0502-6E,
 BaSa8_psol_1445-1446,V2017,soil,,29.6324,-91.513,0.389,0.001,meas,,,,,,93.7,pyr,"Vetter et al. (2017) G3, 18, 142-155",Bayou Sale VIII paleosol,
-Bout1_peat_1818-1820,V2017,soil,,29.8977,-90.3795,0.376,0.003,meas,,,,,,16.51,pyr,"Vetter et al. (2017) G3, 18, 142-157",Boutte I peat deposit,"F4 Fm value taken as the average between F3 and F5, error of 0.01."
-Bout1_psol_1820-1822,V2017,soil,,29.8977,-90.3795,0.364,0.001,meas,-19,0.1,meas,,,149.83,pyr,"Vetter et al. (2017) G3, 18, 142-156",Boutte I paleosol,
-Bout2_peat_1872-1874,V2017,soil,,29.898,-90.388,0.367,0.002,meas,-21.1,0.1,meas,,,8.44,pyr,"Vetter et al. (2017) G3, 18, 142-159",Boutte II peat deposit,
-Bout2_psol_1874-1876,V2017,soil,,29.898,-90.388,0.354,0.002,meas,-21.8,0.1,meas,,,230.88,pyr,"Vetter et al. (2017) G3, 18, 142-158",Boutte II paleosol,
+Bout1_peat_1818-1820,V2017,soil,,29.8977,-90.3795,0.376,0.003,meas,,,,,,16.51,pyr,"Vetter et al. (2017) G3, 18, 142-155",Boutte I peat deposit,"F4 Fm value taken as the average between F3 and F5, error of 0.01."
+Bout1_psol_1820-1822,V2017,soil,,29.8977,-90.3795,0.364,0.001,meas,-19,0.1,meas,,,149.83,pyr,"Vetter et al. (2017) G3, 18, 142-155",Boutte I paleosol,
+Bout2_peat_1872-1874,V2017,soil,,29.898,-90.388,0.367,0.002,meas,-21.1,0.1,meas,,,8.44,pyr,"Vetter et al. (2017) G3, 18, 142-155",Boutte II peat deposit,
+Bout2_psol_1874-1876,V2017,soil,,29.898,-90.388,0.354,0.002,meas,-21.8,0.1,meas,,,230.88,pyr,"Vetter et al. (2017) G3, 18, 142-155",Boutte II paleosol,
 AmRi_KS12_1-2,W2015,riv_sed,1997,5.4863,-52.9932,0.797,0.002,meas,-24.1,0.1,meas,0.61,0.01,211.07,pyr,"Williams et al. (2015) Mar. Geol., 363, 93-101","Amazon River mudbanks, collected off French Guiana",Assume 1N HCl samples (not 17%!)
 AmRi_KS12_22-23,W2015,riv_sed,1997,5.4863,-52.9932,0.788,0.003,meas,-25,0.1,meas,0.6,0.01,204.13,pyr,"Williams et al. (2015) Mar. Geol., 363, 93-101","Amazon River mudbanks, collected off French Guiana",Assume 1N HCl samples (not 17%!)
 AmRi_KS18_96_99,W2015,riv_sed,2000,5.467,-52.8441,0.742,0.002,meas,-24.9,0.1,meas,0.57,0.01,224.45,pyr,"Williams et al. (2015) Mar. Geol., 363, 93-101","Amazon River mudbanks, collected off French Guiana",Assume 1N HCl samples (not 17%!). F5 mass estimated by Fm mass balance.
@@ -106,3 +106,19 @@ CoRi_sed_Cr-24,Z2017a,riv_sed,2012,70.0336,-151.5786,0.288,0.005,RPO_mean,,,,1.7
 SiLa_L1_0-2,Z2017a,mar_sed,2010,70.5252,-150.202,0.765,0.005,RPO_mean,,,,2.17,0.02,,pyr,"Zhang et al. (2017) GRL, 44, xx-xx","Simpson's Lagoon (near Colville), core-top, bulk",
 SiLa_L1_28-30,Z2017a,mar_sed,2010,70.5252,-150.202,0.76,0.005,RPO_mean,,,,,,,pyr,"Zhang et al. (2017) GRL, 44, xx-xx","Simpson's Lagoon (near Colville) core, bulk",
 SiLa_L3_0-2_2,Z2017a,mar_sed,2010,70.5305,-149.9483,0.51,0.005,RPO_mean,,,,1.71,0.02,,pyr,"Zhang et al. (2017) GRL, 44, xx-xx","Simpson's Lagoon (near Colville), core-top, bulk",
+StnM_PPL_DOM_1_20,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,Marine PPL extracted DOM,No %OC calculated for PPL DOM samples; 20C/min; 3700m water depth
+StnM_PPL_DOM_2_20,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,Marine PPL extracted DOM,No %OC calculated for PPL DOM samples; 20C/min; 2600m water depth
+StnM_PPL_DOM_3_20,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,Marine PPL extracted DOM,No %OC calculated for PPL DOM samples; 20C/min; 1600m water depth
+StnM_PPL_DOM_3_5,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,Marine PPL extracted DOM,No %OC calculated for PPL DOM samples; 5C/min; 1600m water depth
+StnM_PPL_DOM_4_20,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,Marine PPL extracted DOM,No %OC calculated for PPL DOM samples; 20C/min; 700m water depth
+StnM_PPL_DOM_4_5,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,Marine PPL extracted DOM,No %OC calculated for PPL DOM samples; 5C/min; 700m water depth
+StnM_PPL_DOM_5_20,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,Marine PPL extracted DOM,No %OC calculated for PPL DOM samples; 20C/min; 45m water depth
+StnM_PPL_DOM_5_5,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,Marine PPL extracted DOM,No %OC calculated for PPL DOM samples; 5C/min; 45m water depth
+StnM_PPL_DOM_HYD_1_20,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,"Marine PPL extracted DOM, acid hydrolyzed and re-extracted onto PPL",No %OC calculated for PPL DOM samples; 20C/min; 3700m water depth
+StnM_PPL_DOM_HYD_2_20,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,"Marine PPL extracted DOM, acid hydrolyzed and re-extracted onto PPL",No %OC calculated for PPL DOM samples; 20C/min; 2600m water depth
+StnM_PPL_DOM_HYD_3_20,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,"Marine PPL extracted DOM, acid hydrolyzed and re-extracted onto PPL",No %OC calculated for PPL DOM samples; 20C/min; 1600m water depth
+StnM_PPL_DOM_HYD_3_5,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,"Marine PPL extracted DOM, acid hydrolyzed and re-extracted onto PPL",No %OC calculated for PPL DOM samples; 5C/min; 1600m water depth
+StnM_PPL_DOM_HYD_4_20,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,"Marine PPL extracted DOM, acid hydrolyzed and re-extracted onto PPL",No %OC calculated for PPL DOM samples; 20C/min; 700m water depth
+StnM_PPL_DOM_HYD_4_5,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,"Marine PPL extracted DOM, acid hydrolyzed and re-extracted onto PPL",No %OC calculated for PPL DOM samples; 5C/min; 700m water depth
+StnM_PPL_DOM_HYD_5_20,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,"Marine PPL extracted DOM, acid hydrolyzed and re-extracted onto PPL",No %OC calculated for PPL DOM samples; 20C/min; 45m water depth
+StnM_PPL_DOM_HYD_5_5,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,"Marine PPL extracted DOM, acid hydrolyzed and re-extracted onto PPL",No %OC calculated for PPL DOM samples; 5C/min; 45m water depth
