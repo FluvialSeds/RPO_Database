@@ -33,7 +33,8 @@ References for Included Data
 * Bianchi et al. (2015) *Geophys. Res. Lett*, **42**, 7983-7995
 * Gaglioti et al. (2014) *J. Geophys. Res. B*, **119**, 1630-1651
 * Hemingway et al. (2017) *Radiocarbon*, **59**, 179-193
-* Hemingway et al. (2018) *Science*, **accepted**
+* Hemingway et al. (2018) *Science*, **360**, 209-212
+* Hemingway et al. (2019) *Nature*, **570**, 228-231
 * Plante et al. (2013) *Radiocarbon*, **55**, 1077-1083
 * Rosengard, S.Z. (2017) PhD Thesis, MIT/WHOI, pp. 165-226
 * Rosenheim and Galy (2012) *Geophys. Res. Lett.*, **39**, L19703
