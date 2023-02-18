@@ -106,19 +106,19 @@ CoRi_sed_Cr-24,Z2017a,riv_sed,2012,70.0336,-151.5786,0.288,0.005,RPO_mean,,,,1.7
 SiLa_L1_0-2,Z2017a,mar_sed,2010,70.5252,-150.202,0.765,0.005,RPO_mean,,,,2.17,0.02,,pyr,"Zhang et al. (2017) GRL, 44, xx-xx","Simpson's Lagoon (near Colville), core-top, bulk",
 SiLa_L1_28-30,Z2017a,mar_sed,2010,70.5252,-150.202,0.76,0.005,RPO_mean,,,,,,,pyr,"Zhang et al. (2017) GRL, 44, xx-xx","Simpson's Lagoon (near Colville) core, bulk",
 SiLa_L3_0-2_2,Z2017a,mar_sed,2010,70.5305,-149.9483,0.51,0.005,RPO_mean,,,,1.71,0.02,,pyr,"Zhang et al. (2017) GRL, 44, xx-xx","Simpson's Lagoon (near Colville), core-top, bulk",
-StnM_PPL_DOM_1_20,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,Marine PPL extracted DOM,No %OC calculated for PPL DOM samples; 20C/min; 3700m water depth
-StnM_PPL_DOM_2_20,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,Marine PPL extracted DOM,No %OC calculated for PPL DOM samples; 20C/min; 2600m water depth
-StnM_PPL_DOM_3_20,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,Marine PPL extracted DOM,No %OC calculated for PPL DOM samples; 20C/min; 1600m water depth
-StnM_PPL_DOM_3_5,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,Marine PPL extracted DOM,No %OC calculated for PPL DOM samples; 5C/min; 1600m water depth
-StnM_PPL_DOM_4_20,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,Marine PPL extracted DOM,No %OC calculated for PPL DOM samples; 20C/min; 700m water depth
-StnM_PPL_DOM_4_5,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,Marine PPL extracted DOM,No %OC calculated for PPL DOM samples; 5C/min; 700m water depth
-StnM_PPL_DOM_5_20,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,Marine PPL extracted DOM,No %OC calculated for PPL DOM samples; 20C/min; 45m water depth
-StnM_PPL_DOM_5_5,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,Marine PPL extracted DOM,No %OC calculated for PPL DOM samples; 5C/min; 45m water depth
-StnM_PPL_DOM_HYD_1_20,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,"Marine PPL extracted DOM, acid hydrolyzed and re-extracted onto PPL",No %OC calculated for PPL DOM samples; 20C/min; 3700m water depth
-StnM_PPL_DOM_HYD_2_20,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,"Marine PPL extracted DOM, acid hydrolyzed and re-extracted onto PPL",No %OC calculated for PPL DOM samples; 20C/min; 2600m water depth
-StnM_PPL_DOM_HYD_3_20,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,"Marine PPL extracted DOM, acid hydrolyzed and re-extracted onto PPL",No %OC calculated for PPL DOM samples; 20C/min; 1600m water depth
-StnM_PPL_DOM_HYD_3_5,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,"Marine PPL extracted DOM, acid hydrolyzed and re-extracted onto PPL",No %OC calculated for PPL DOM samples; 5C/min; 1600m water depth
-StnM_PPL_DOM_HYD_4_20,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,"Marine PPL extracted DOM, acid hydrolyzed and re-extracted onto PPL",No %OC calculated for PPL DOM samples; 20C/min; 700m water depth
-StnM_PPL_DOM_HYD_4_5,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,"Marine PPL extracted DOM, acid hydrolyzed and re-extracted onto PPL",No %OC calculated for PPL DOM samples; 5C/min; 700m water depth
-StnM_PPL_DOM_HYD_5_20,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,"Marine PPL extracted DOM, acid hydrolyzed and re-extracted onto PPL",No %OC calculated for PPL DOM samples; 20C/min; 45m water depth
-StnM_PPL_DOM_HYD_5_5,,dom,2018,34.5,-123,,,,,,,,,,ox,White et al. in prep,"Marine PPL extracted DOM, acid hydrolyzed and re-extracted onto PPL",No %OC calculated for PPL DOM samples; 5C/min; 45m water depth
+StnM_PPL_DOM_1_20,,dom,2018,34.50,-123.00,0.4904,0.0019,meas,-23.08,0.1,meas,,,,ox,White et al. in prep,Marine PPL extracted DOM,No %OC calculated for PPL DOM samples; 20C/min; 3700m water depth
+StnM_PPL_DOM_2_20,,dom,2018,34.50,-123.00,0.5145,0.0016,meas,-22.34,0.1,meas,,,,ox,White et al. in prep,Marine PPL extracted DOM,No %OC calculated for PPL DOM samples; 20C/min; 2600m water depth
+StnM_PPL_DOM_3_20,,dom,2018,34.50,-123.00,0.5036,0.0016,meas,-23.54,0.1,meas,,,,ox,White et al. in prep,Marine PPL extracted DOM,No %OC calculated for PPL DOM samples; 20C/min; 1600m water depth
+StnM_PPL_DOM_3_5,,dom,2018,34.50,-123.00,0.4908,0.0060,RPO_mean,-23.30,0.24,RPO_mean,,,,ox,White et al. in prep,Marine PPL extracted DOM,No %OC calculated for PPL DOM samples; 5C/min; 1600m water depth
+StnM_PPL_DOM_4_20,,dom,2018,34.50,-123.00,0.5272,0.0014,meas,-23.22,0.1,meas,,,,ox,White et al. in prep,Marine PPL extracted DOM,No %OC calculated for PPL DOM samples; 20C/min; 700m water depth
+StnM_PPL_DOM_4_5,,dom,2018,34.50,-123.00,0.5149,0.0040,RPO_mean,,,,,,,ox,White et al. in prep,Marine PPL extracted DOM,No %OC calculated for PPL DOM samples; 5C/min; 700m water depth
+StnM_PPL_DOM_5_20,,dom,2018,34.50,-123.00,0.7104,0.0028,meas,-23.53,0.1,meas,,,,ox,White et al. in prep,Marine PPL extracted DOM,No %OC calculated for PPL DOM samples; 20C/min; 45m water depth
+StnM_PPL_DOM_5_5,,dom,2018,34.50,-123.00,0.7003,0.0060,RPO_mean,-23.60,0.24,RPO_mean,,,,ox,White et al. in prep,Marine PPL extracted DOM,No %OC calculated for PPL DOM samples; 5C/min; 45m water depth
+StnM_PPL_DOM_HYD_1_20,,dom,2018,34.50,-123.00,0.4817,0.0020,meas,-23.55,0.1,meas,,,,ox,White et al. in prep,"Marine PPL extracted DOM, acid hydrolyzed and re-extracted onto PPL",No %OC calculated for PPL DOM samples; 20C/min; 3700m water depth
+StnM_PPL_DOM_HYD_2_20,,dom,2018,34.50,-123.00,0.4665,0.0051,meas,-23.39,0.1,meas,,,,ox,White et al. in prep,"Marine PPL extracted DOM, acid hydrolyzed and re-extracted onto PPL",No %OC calculated for PPL DOM samples; 20C/min; 2600m water depth
+StnM_PPL_DOM_HYD_3_20,,dom,2018,34.50,-123.00,0.5090,0.0027,meas,-22.32,0.1,meas,,,,ox,White et al. in prep,"Marine PPL extracted DOM, acid hydrolyzed and re-extracted onto PPL",No %OC calculated for PPL DOM samples; 20C/min; 1600m water depth
+StnM_PPL_DOM_HYD_3_5,,dom,2018,34.50,-123.00,0.4506,0.0060,RPO_mean,,,,,,,ox,White et al. in prep,"Marine PPL extracted DOM, acid hydrolyzed and re-extracted onto PPL",No %OC calculated for PPL DOM samples; 5C/min; 1600m water depth
+StnM_PPL_DOM_HYD_4_20,,dom,2018,34.50,-123.00,0.4980,0.0043,meas,-24.28,0.1,meas,,,,ox,White et al. in prep,"Marine PPL extracted DOM, acid hydrolyzed and re-extracted onto PPL",No %OC calculated for PPL DOM samples; 20C/min; 700m water depth
+StnM_PPL_DOM_HYD_4_5,,dom,2018,34.50,-123.00,,,,,,,,,,ox,White et al. in prep,"Marine PPL extracted DOM, acid hydrolyzed and re-extracted onto PPL",No %OC calculated for PPL DOM samples; 5C/min; 700m water depth
+StnM_PPL_DOM_HYD_5_20,,dom,2018,34.50,-123.00,0.6238,0.0028,meas,-24.23,0.1,meas,,,,ox,White et al. in prep,"Marine PPL extracted DOM, acid hydrolyzed and re-extracted onto PPL",No %OC calculated for PPL DOM samples; 20C/min; 45m water depth
+StnM_PPL_DOM_HYD_5_5,,dom,2018,34.50,-123.00,0.6154,0.0060,RPO_mean,-25,0.24,RPO_mean,,,,ox,White et al. in prep,"Marine PPL extracted DOM, acid hydrolyzed and re-extracted onto PPL",No %OC calculated for PPL DOM samples; 5C/min; 45m water depth

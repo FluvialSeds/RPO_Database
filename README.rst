@@ -6,7 +6,7 @@ The Ramped-temperature Pyrolysis/Oxidation (RPO) database contains all published
 Database Information
 --------------------
 :Authors:
-  Jordon D. Hemingway (jordon_hemingway@harvard.edu)
+  Jordon D. Hemingway (jordon.hemingway@erdw.ethz.ch)
   Carolyn Schafer
   Brad E. Rosenheim
 
@@ -45,13 +45,14 @@ References for Included Data
 * Vetter et al. (2017) *Geochem. Geophys. Geosys.*, **18**, 142-155
 * Williams et al. (2015) *Mar. Geol.*, **363**, 93-101
 * Zhang et al. (2017) *Geophys. Res. Lett.*, **44**, 11941-11500
+* White et al. (2023) *in press*
 
 
 Adding Data
 -----------
 This database is actively maintained. If you have published RPO results that you would like added, please contact me directly at:
 
-	jordon_hemingway@harvard.edu
+	jordon.hemingway@erdw.ethz.ch
 
 
 .. |date| date::
